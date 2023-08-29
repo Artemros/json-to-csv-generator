@@ -1,0 +1,25 @@
+{
+  "name": "Table_1",
+  "generate_data": true,
+  "row": 10,
+  "column": [
+    {
+      "Col_1": [
+        "str",
+        "12"
+      ]
+    },
+    {
+      "Col_2": [
+        "int",
+        "9.0"
+      ]
+    },
+    {
+      "Col_3": [
+        "timestamp",
+        "%Y-%m-%d"
+      ]
+    }
+  ]
+}

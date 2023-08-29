@@ -1,0 +1,32 @@
+[
+  {
+    "name_system": "Generate_1",
+    "system_value_str": "12",
+    "system_value_int": "38.12",
+    "system_value_timestamp": "yyyy.MM.dd hh:mm:ss",
+    "system_row": 12,
+    "tables": [
+      {
+        "name": "Table_1",
+        "generate_data": true,
+        "column": [
+          {
+            "Col_1": [
+              ""
+            ]
+          },
+          {
+            "Col_2": [
+              "int"
+            ]
+          },
+          {
+            "Col_3": [
+              "timestamp"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
